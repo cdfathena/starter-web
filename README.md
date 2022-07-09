@@ -17,3 +17,15 @@ din the treadiotnal
 ienrewkrjiwenksdmlfl tsijf skdfl wherkj  i sdjfklds msldfkndskjf
 sdfklsdfl hsdfiuhskjn 
 sdfls dfsdlfjslfjksdfl jsdfjsldfj fjdsofjsl d
+
+##cinthol
+the soap is pretty great
+
+
+##bargaining
+the redtape showroom is great 
+
+
+
+
+
