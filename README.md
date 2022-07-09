@@ -8,6 +8,7 @@ To list all the git repository locations on your you can run the following find 
 13-Nov-2014 — The above ssh call will connect to a Git hosting server that has gitolite installed and will return the list of repositories that are ...
 
 ## Deployment
+Check git status of multiple repos. GitHub Gist: instantly share code, notes, and snippets.
 
 ## flow
 this is the timing of the flow
