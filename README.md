@@ -23,7 +23,10 @@ the soap is pretty great
 
 
 ##bargaining
-the redtape showroom is great 
+the redtape showroom is great
+
+##mergin concepts
+git training sentences
 
 
 
