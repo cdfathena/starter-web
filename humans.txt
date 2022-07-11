@@ -5,7 +5,7 @@
 
     <name> -- <role> -- <twitter>
 
-# THANKS
+# THANKS please review the changes
 
     <name>
 
