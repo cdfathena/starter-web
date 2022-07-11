@@ -28,6 +28,9 @@ the redtape showroom is great
 ##mergin concepts
 git training sentences
 
+## automatic merging
+##cicd
+
 
 
 
