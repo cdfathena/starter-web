@@ -31,6 +31,8 @@ git training sentences
 ## automatic merging
 ##cicd
 
+## all rights reserved
+
 
 
 
