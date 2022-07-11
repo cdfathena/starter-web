@@ -33,6 +33,8 @@ git training sentences
 
 ## all rights reserved
 
+## emergeny ifx 
+
 
 
 
